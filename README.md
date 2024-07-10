@@ -6,7 +6,7 @@ can be configured to use the default table schema or a custom schema.
 ### Packages
 
 - Current Version: 1.0.0
-- Target Framework: .NET Standard 2.0
+- Target Framework: .NET 8
 
 ### Dependencies
 
